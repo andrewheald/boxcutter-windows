@@ -8,6 +8,9 @@ crash.log
 tmp
 .vagrant/
 *.swp
-Makefile.local
 
 .DS_Store
+
+.idea
+.project
+*~
